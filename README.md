@@ -1,1 +1,1 @@
-# HousePrediction_AmishaMalhotra
+# HousePricePrediction_AmishaMalhotra
